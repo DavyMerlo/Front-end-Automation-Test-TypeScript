@@ -18,6 +18,7 @@ const constants = {
 
 
 let page: Page;
+
 test.describe.configure({ mode: 'serial' });
 
 test.describe('Shopping Flow', () => {
